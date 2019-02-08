@@ -1,0 +1,97 @@
+[
+ {
+   "id_podio": 1,
+   "id_expa": 613,
+   "nombre_comite": "Arequipa"
+ },
+ {
+   "id_podio": 2,
+   "id_expa": 1992,
+   "nombre_comite": "Cajamarca"
+ },
+ {
+   "id_podio": 3,
+   "id_expa": 1665,
+   "nombre_comite": "Chiclayo"
+ },
+ {
+   "id_podio": 4,
+   "id_expa": 1890,
+   "nombre_comite": "Cusco"
+ },
+ {
+   "id_podio": 5,
+   "id_expa": 1718,
+   "nombre_comite": "Huancayo"
+ },
+ {
+   "id_podio": 6,
+   "id_expa": 2363,
+   "nombre_comite": "Huanuco"
+ },
+ {
+   "id_podio": 7,
+   "id_expa": 1720,
+   "nombre_comite": "Ica"
+ },
+ {
+   "id_podio": 8,
+   "id_expa": 589,
+   "nombre_comite": "Lima"
+ },
+ {
+   "id_podio": 9,
+   "id_expa": 1432,
+   "nombre_comite": "Pacifico"
+ },
+ {
+   "id_podio": 10,
+   "id_expa": 1768,
+   "nombre_comite": "PERU"
+ },
+ {
+   "id_podio": 11,
+   "id_expa": 160,
+   "nombre_comite": "Piura"
+ },
+ {
+   "id_podio": 12,
+   "id_expa": 2364,
+   "nombre_comite": "Puno"
+ },
+ {
+   "id_podio": 13,
+   "id_expa": 1717,
+   "nombre_comite": "Tacna"
+ },
+ {
+   "id_podio": 14,
+   "id_expa": 2365,
+   "nombre_comite": "Tarapoto"
+ },
+ {
+   "id_podio": 15,
+   "id_expa": 1716,
+   "nombre_comite": "Trujillo"
+ },
+ {
+   "id_podio": 16,
+   "id_expa": 669,
+   "nombre_comite": "Universidad Catolica - Peru"
+ },
+ {
+   "id_podio": 17,
+   "id_expa": 269,
+   "nombre_comite": "Universidad San Marcos"
+ },
+ {
+   "id_podio": 18,
+   "id_expa": 1732,
+   "nombre_comite": "Universidad San Martin de Porres"
+ },
+ {
+   "id_podio": 19,
+   "id_expa": 116,
+   "nombre_comite": "URP"
+ }
+]

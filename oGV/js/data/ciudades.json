@@ -1,0 +1,105 @@
+[
+ {
+   "id_ciudad": 1,
+   "id_ciudad_expa:": 0,
+   "nombre_ciudad": "Arequipa"
+ },
+ {
+   "id_ciudad": 2,
+   "id_ciudad_expa:": 0,
+   "nombre_ciudad": "Ayacucho"
+ },
+ {
+   "id_ciudad": 3,
+   "id_ciudad_expa:": 0,
+   "nombre_ciudad": "Cajamarca"
+ },
+ {
+   "id_ciudad": 4,
+   "id_ciudad_expa:": 0,
+   "nombre_ciudad": "Chiclayo"
+ },
+ {
+   "id_ciudad": 5,
+   "id_ciudad_expa:": 0,
+   "nombre_ciudad": "Chimbote"
+ },
+ {
+   "id_ciudad": 6,
+   "id_ciudad_expa:": 0,
+   "nombre_ciudad": "Cusco"
+ },
+ {
+   "id_ciudad": 7,
+   "id_ciudad_expa:": 0,
+   "nombre_ciudad": "Huancayo"
+ },
+ {
+   "id_ciudad": 8,
+   "id_ciudad_expa:": 0,
+   "nombre_ciudad": "Huánuco"
+ },
+ {
+   "id_ciudad": 9,
+   "id_ciudad_expa:": 0,
+   "nombre_ciudad": "Huaraz"
+ },
+ {
+   "id_ciudad": 10,
+   "id_ciudad_expa:": 0,
+   "nombre_ciudad": "Ica"
+ },
+ {
+  "id_ciudad": 18,
+  "id_ciudad_expa:": 0,
+  "nombre_ciudad": "Iquitos"
+}, {
+  "id_ciudad": 19,
+  "id_ciudad_expa:": 0,
+  "nombre_ciudad": "Juliaca"
+},
+ {
+   "id_ciudad": 11,
+   "id_ciudad_expa:": 0,
+   "nombre_ciudad": "Lima"
+ },
+ {
+  "id_ciudad": 20,
+  "id_ciudad_expa:": 0,
+  "nombre_ciudad": "Moquegua"
+}, {
+  "id_ciudad": 21,
+  "id_ciudad_expa:": 0,
+  "nombre_ciudad": "Nueva Cajamarca"
+},
+ {
+   "id_ciudad": 12,
+   "id_ciudad_expa:": 0,
+   "nombre_ciudad": "Piura"
+ },
+ {
+   "id_ciudad": 13,
+   "id_ciudad_expa:": 0,
+   "nombre_ciudad": "Puno"
+ },
+ {
+   "id_ciudad": 14,
+   "id_ciudad_expa:": 0,
+   "nombre_ciudad": "Tacna"
+ },
+ {
+   "id_ciudad": 15,
+   "id_ciudad_expa:": 0,
+   "nombre_ciudad": "Tarapoto"
+ },
+ {
+   "id_ciudad": 16,
+   "id_ciudad_expa:": 0,
+   "nombre_ciudad": "Trujillo"
+ },
+ {
+   "id_ciudad": 17,
+   "id_ciudad_expa:": 0,
+   "nombre_ciudad": "Otras ciudades"
+ }
+]

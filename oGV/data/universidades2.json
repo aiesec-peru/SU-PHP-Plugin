@@ -1,0 +1,842 @@
+[
+ {
+   "id_ciudad": 1,
+   "id_universidad": 1,
+   "nombre_universidad": "Universidad Catolica San Pablo - UCSP - Sede Arequipa",
+   "c_id_podio": 1,
+   "c_id_expa": 613
+ },
+ {
+   "id_ciudad": 1,
+   "id_universidad": 2,
+   "nombre_universidad": "Universidad Catolica Santa Maria - UCSM - Sede Arequipa",
+   "c_id_podio": 1,
+   "c_id_expa": 613
+ },
+ {
+   "id_ciudad": 1,
+   "id_universidad": 3,
+   "nombre_universidad": "Universidad Alas Peruanas - UAP - Sede Arequipa",
+   "c_id_podio": 1,
+   "c_id_expa": 613
+ },
+ {
+   "id_ciudad": 1,
+   "id_universidad": 4,
+   "nombre_universidad": "Universidad Tecnologica del Peru - UTP - Sede Arequipa",
+   "c_id_podio": 1,
+   "c_id_expa": 613
+ },
+ {
+   "id_ciudad": 1,
+   "id_universidad": 5,
+   "nombre_universidad": "Universidad San Martin de Porres - USMP - Sede Arequipa",
+   "c_id_podio": 1,
+   "c_id_expa": 613
+ },
+ {
+   "id_ciudad": 1,
+   "id_universidad": 6,
+   "nombre_universidad": "Universidad Nacional San Agustin - UNSA - Sede Arequipa",
+   "c_id_podio": 1,
+   "c_id_expa": 613
+ },
+ {
+   "id_ciudad": 1,
+   "id_universidad": 7,
+   "nombre_universidad": "Universidad La Salle  - Sede Arequipa",
+   "c_id_podio": 1,
+   "c_id_expa": 613
+ },
+ {
+   "id_ciudad": 1,
+   "id_universidad": 8,
+   "nombre_universidad": "Universidad Andina N. Cáceres Velásquez (UANCV) - Sede Arequipa",
+   "c_id_podio": 1,
+   "c_id_expa": 613
+ },
+ {
+   "id_ciudad": 1,
+   "id_universidad": 9,
+   "nombre_universidad": "ISUR - Sede Arequipa",
+   "c_id_podio": 1,
+   "c_id_expa": 613
+ },
+ {
+   "id_ciudad": 1,
+   "id_universidad": 10,
+   "nombre_universidad": "SENATI - Sede Arequipa",
+   "c_id_podio": 1,
+   "c_id_expa": 613
+ },
+ {
+   "id_ciudad": 1,
+   "id_universidad": 11,
+   "nombre_universidad": "TECSUP - Sede Arequipa",
+   "c_id_podio": 1,
+   "c_id_expa": 613
+ },
+ {
+   "id_ciudad": 1,
+   "id_universidad": 12,
+   "nombre_universidad": "Otras universidades e instituos de Arequipa",
+   "c_id_podio": 1,
+   "c_id_expa": 613
+ },
+ {
+   "id_ciudad": 2,
+   "id_universidad": 13,
+   "nombre_universidad": "Universidades e institutos de Ayacucho",
+   "c_id_podio": 1,
+   "c_id_expa": 613
+ },
+ {
+   "id_ciudad": 3,
+   "id_universidad": 14,
+   "nombre_universidad": "Universidad Privada del Norte - UPN - Sede Cajamarca",
+   "c_id_podio": 2,
+   "c_id_expa": 1992
+ },
+ {
+   "id_ciudad": 3,
+   "id_universidad": 15,
+   "nombre_universidad": "Universidad privada Antonio Guillermo Urrelo - UPAGU  - Sede Cajamarca",
+   "c_id_podio": 2,
+   "c_id_expa": 1992
+ },
+ {
+   "id_ciudad": 3,
+   "id_universidad": 16,
+   "nombre_universidad": "Universidad Nacional de Cajamarca - UNC - Sede Cajamarca",
+   "c_id_podio": 2,
+   "c_id_expa": 1992
+ },
+ {
+   "id_ciudad": 3,
+   "id_universidad": 17,
+   "nombre_universidad": "Otras Universidades e Institutos de Cajamarca",
+   "c_id_podio": 2,
+   "c_id_expa": 1992
+ },
+ {
+   "id_ciudad": 4,
+   "id_universidad": 18,
+   "nombre_universidad": "Universidad Católica Santo Toribio de mogrovejo - Sede Chiclayo",
+   "c_id_podio": 3,
+   "c_id_expa": 1665
+ },
+ {
+   "id_ciudad": 4,
+   "id_universidad": 19,
+   "nombre_universidad": "Universidad San Martin de Porres - Sede Chiclayo",
+   "c_id_podio": 3,
+   "c_id_expa": 1665
+ },
+ {
+   "id_ciudad": 4,
+   "id_universidad": 20,
+   "nombre_universidad": "Universidad Cesar Vallejo - Sede Chiclayo",
+   "c_id_podio": 3,
+   "c_id_expa": 1665
+ },
+ {
+   "id_ciudad": 4,
+   "id_universidad": 21,
+   "nombre_universidad": "Universidad Nacional Pedro Ruiz Gallo - Sede Chiclayo",
+   "c_id_podio": 3,
+   "c_id_expa": 1665
+ },
+ {
+   "id_ciudad": 4,
+   "id_universidad": 22,
+   "nombre_universidad": "Universidad Señor de Sipan - Sede Chiclayo",
+   "c_id_podio": 3,
+   "c_id_expa": 1665
+ },
+ {
+   "id_ciudad": 4,
+   "id_universidad": 23,
+   "nombre_universidad": "Universidad Alas Peruanas - UAP - Sede Chiclayo",
+   "c_id_podio": 3,
+   "c_id_expa": 1665
+ },
+ {
+   "id_ciudad": 4,
+   "id_universidad": 24,
+   "nombre_universidad": "Universidad de Chiclayo - Sede Chiclayo",
+   "c_id_podio": 3,
+   "c_id_expa": 1665
+ },
+ {
+   "id_ciudad": 4,
+   "id_universidad": 25,
+   "nombre_universidad": "Universidad de Lambayeque - Sede Chiclayo",
+   "c_id_podio": 3,
+   "c_id_expa": 1665
+ },
+ {
+   "id_ciudad": 4,
+   "id_universidad": 26,
+   "nombre_universidad": "Otras Universidades e Institutos de Chiclayo",
+   "c_id_podio": 3,
+   "c_id_expa": 1665
+ },
+ {
+   "id_ciudad": 5,
+   "id_universidad": 27,
+   "nombre_universidad": "Universidades e institutos de Chimbote",
+   "c_id_podio": 3,
+   "c_id_expa": 1665
+ },
+ {
+   "id_ciudad": 6,
+   "id_universidad": 28,
+   "nombre_universidad": "Universidad Nacional San Antonio Abad del Cusco",
+   "c_id_podio": 4,
+   "c_id_expa": 1890
+ },
+ {
+   "id_ciudad": 6,
+   "id_universidad": 29,
+   "nombre_universidad": "Universidad Andina del Cusco",
+   "c_id_podio": 4,
+   "c_id_expa": 1890
+ },
+ {
+   "id_ciudad": 6,
+   "id_universidad": 30,
+   "nombre_universidad": "Universidad Peruana Austral - Sede Cusco",
+   "c_id_podio": 4,
+   "c_id_expa": 1890
+ },
+ {
+   "id_ciudad": 6,
+   "id_universidad": 31,
+   "nombre_universidad": "Universidad Global - Sede Cusco",
+   "c_id_podio": 4,
+   "c_id_expa": 1890
+ },
+ {
+   "id_ciudad": 6,
+   "id_universidad": 32,
+   "nombre_universidad": "Universidad Tecnológica de los Andes - Sede Cusco",
+   "c_id_podio": 4,
+   "c_id_expa": 1890
+ },
+ {
+   "id_ciudad": 6,
+   "id_universidad": 33,
+   "nombre_universidad": "Universidad Alas Peruanas - Sede Cusco",
+   "c_id_podio": 4,
+   "c_id_expa": 1890
+ },
+ {
+   "id_ciudad": 6,
+   "id_universidad": 34,
+   "nombre_universidad": "Otras Universidades e Institutos de Cusco",
+   "c_id_podio": 4,
+   "c_id_expa": 1890
+ },
+ {
+   "id_ciudad": 7,
+   "id_universidad": 35,
+   "nombre_universidad": "Universidad Continental - Sede Huancayo",
+   "c_id_podio": 5,
+   "c_id_expa": 1718
+ },
+ {
+   "id_ciudad": 7,
+   "id_universidad": 36,
+   "nombre_universidad": "Universidad Nacional del centro del Perú - UNCP - Sede Huancayo",
+   "c_id_podio": 5,
+   "c_id_expa": 1718
+ },
+ {
+   "id_ciudad": 7,
+   "id_universidad": 37,
+   "nombre_universidad": "Universidad Peruana los Andes - UPLA - Sede Huancayo",
+   "c_id_podio": 5,
+   "c_id_expa": 1718
+ },
+ {
+   "id_ciudad": 7,
+   "id_universidad": 38,
+   "nombre_universidad": "Universidad Roosevelt - Sede Huancayo",
+   "c_id_podio": 5,
+   "c_id_expa": 1718
+ },
+ {
+   "id_ciudad": 7,
+   "id_universidad": 39,
+   "nombre_universidad": "Universidad Alas Peruanas - UAP - Sede Huancayo",
+   "c_id_podio": 5,
+   "c_id_expa": 1718
+ },
+ {
+   "id_ciudad": 7,
+   "id_universidad": 40,
+   "nombre_universidad": "Universidad Privada del Centro - Sede Huancayo",
+   "c_id_podio": 5,
+   "c_id_expa": 1718
+ },
+ {
+   "id_ciudad": 7,
+   "id_universidad": 41,
+   "nombre_universidad": "Universidad Santo Toribio - UST - Sede Huancayo",
+   "c_id_podio": 5,
+   "c_id_expa": 1718
+ },
+ {
+   "id_ciudad": 7,
+   "id_universidad": 42,
+   "nombre_universidad": "Otras Universidades e institutos de Huancayo",
+   "c_id_podio": 5,
+   "c_id_expa": 1718
+ },
+ {
+   "id_ciudad": 8,
+   "id_universidad": 43,
+   "nombre_universidad": "Universidad Hermilio Valdizan",
+   "c_id_podio": 6,
+   "c_id_expa": 2363
+ },
+ {
+   "id_ciudad": 8,
+   "id_universidad": 44,
+   "nombre_universidad": "La Universidad de Huánuco",
+   "c_id_podio": 6,
+   "c_id_expa": 2363
+ },
+ {
+   "id_ciudad": 8,
+   "id_universidad": 45,
+   "nombre_universidad": "Otras Universidades e Institutos de Huánuco",
+   "c_id_podio": 6,
+   "c_id_expa": 2363
+ },
+ {
+   "id_ciudad": 9,
+   "id_universidad": 46,
+   "nombre_universidad": "Universidades e institutos de Huaraz",
+   "c_id_podio": 15,
+   "c_id_expa": 1716
+ },
+ {
+   "id_ciudad": 10,
+   "id_universidad": 47,
+   "nombre_universidad": "Universidad Privada de Ica - Sede Ica",
+   "c_id_podio": 7,
+   "c_id_expa": 1720
+ },
+ {
+   "id_ciudad": 10,
+   "id_universidad": 48,
+   "nombre_universidad": "Universidad Nacional San Luis Gonzaga de Ica - Sede Ica",
+   "c_id_podio": 7,
+   "c_id_expa": 1720
+ },
+ {
+   "id_ciudad": 10,
+   "id_universidad": 49,
+   "nombre_universidad": "Universidad Privada Alas Peruanas - UAP - Sede Ica",
+   "c_id_podio": 7,
+   "c_id_expa": 1720
+ },
+ {
+   "id_ciudad": 10,
+   "id_universidad": 50,
+   "nombre_universidad": "Universidad Privada San Juan Bautista - UPSJ - Sede Ica",
+   "c_id_podio": 7,
+   "c_id_expa": 1720
+ },
+ {
+   "id_ciudad": 10,
+   "id_universidad": 51,
+   "nombre_universidad": "Otras universidades eInstitutos de Ica",
+   "c_id_podio": 7,
+   "c_id_expa": 1720
+ },
+ {
+   "id_ciudad": 11,
+   "id_universidad": 52,
+   "nombre_universidad": "Pontificia Universidad Católica del Perú \n",
+   "c_id_podio": 16,
+   "c_id_expa": 669
+ },
+ {
+   "id_ciudad": 11,
+   "id_universidad": 53,
+   "nombre_universidad": "Universidad Alas Peruanas",
+   "c_id_podio": 16,
+   "c_id_expa": 669
+ },
+ {
+  "id_ciudad": 11,
+  "id_universidad": 120,
+  "nombre_universidad": "Universidad de las Americas ",
+  "c_id_podio": 16,
+  "c_id_expa": 669
+},
+ {
+   "id_ciudad": 11,
+   "id_universidad": 54,
+   "nombre_universidad": "Universidad Inca Garcilaso de la Vega",
+   "c_id_podio": 16,
+   "c_id_expa": 669
+ },
+ {
+   "id_ciudad": 11,
+   "id_universidad": 118,
+   "nombre_universidad": "Universidad Jaime Bausate y Meza",
+   "c_id_podio": 16,
+   "c_id_expa": 669
+ },
+ {
+   "id_ciudad": 11,
+   "id_universidad": 55,
+   "nombre_universidad": "Instituto Peruano de Arte y Diseño (IPAD)",
+   "c_id_podio": 16,
+   "c_id_expa": 669
+ },
+ {
+   "id_ciudad": 11,
+   "id_universidad": 119,
+   "nombre_universidad": "Universidad Privada del Norte (UPN)",
+   "c_id_podio": 16,
+   "c_id_expa": 669
+ },
+ {
+   "id_ciudad": 11,
+   "id_universidad": 56,
+   "nombre_universidad": "Otras universidades e institutos de Lima",
+   "c_id_podio": 16,
+   "c_id_expa": 669
+ },
+ {
+   "id_ciudad": 11,
+   "id_universidad": 57,
+   "nombre_universidad": "ESAN",
+   "c_id_podio": 8,
+   "c_id_expa": 589
+ },
+ {
+   "id_ciudad": 11,
+   "id_universidad": 58,
+   "nombre_universidad": "ISIL",
+   "c_id_podio": 8,
+   "c_id_expa": 589
+ },
+ {
+   "id_ciudad": 11,
+   "id_universidad": 59,
+   "nombre_universidad": "USIL",
+   "c_id_podio": 8,
+   "c_id_expa": 589
+ },
+ {
+   "id_ciudad": 11,
+   "id_universidad": 60,
+   "nombre_universidad": "SENATI",
+   "c_id_podio": 8,
+   "c_id_expa": 589
+ },
+ {
+   "id_ciudad": 11,
+   "id_universidad": 61,
+   "nombre_universidad": "Universidad de Lima",
+   "c_id_podio": 8,
+   "c_id_expa": 589
+ },
+ {
+   "id_ciudad": 11,
+   "id_universidad": 62,
+   "nombre_universidad": "Universidad Agraria de la Molina",
+   "c_id_podio": 8,
+   "c_id_expa": 589
+ },
+ {
+   "id_ciudad": 11,
+   "id_universidad": 63,
+   "nombre_universidad": "Universidad Científica del Sur",
+   "c_id_podio": 8,
+   "c_id_expa": 589
+ },
+ {
+   "id_ciudad": 11,
+   "id_universidad": 64,
+   "nombre_universidad": "CIBERTEC",
+   "c_id_podio": 9,
+   "c_id_expa": 1432
+ },
+ {
+   "id_ciudad": 11,
+   "id_universidad": 65,
+   "nombre_universidad": "Instituto Toulouse Lautrec",
+   "c_id_podio": 9,
+   "c_id_expa": 1432
+ },
+ {
+   "id_ciudad": 11,
+   "id_universidad": 66,
+   "nombre_universidad": "Universidad César Vallejo Lima",
+   "c_id_podio": 9,
+   "c_id_expa": 1432
+ },
+ {
+   "id_ciudad": 11,
+   "id_universidad": 67,
+   "nombre_universidad": "Universidad de Ingenieria y Tecnologia (UTEC)",
+   "c_id_podio": 9,
+   "c_id_expa": 1432
+ },
+ {
+   "id_ciudad": 11,
+   "id_universidad": 68,
+   "nombre_universidad": "Universidad del Pacífico",
+   "c_id_podio": 9,
+   "c_id_expa": 1432
+ },
+ {
+   "id_ciudad": 11,
+   "id_universidad": 69,
+   "nombre_universidad": "Universidad Femenina del Sagrado Corazon (UNIFE)",
+   "c_id_podio": 9,
+   "c_id_expa": 1432
+ },
+ {
+   "id_ciudad": 11,
+   "id_universidad": 70,
+   "nombre_universidad": "Universidad Peruana Cayetano Heredia",
+   "c_id_podio": 9,
+   "c_id_expa": 1432
+ },
+ {
+   "id_ciudad": 11,
+   "id_universidad": 71,
+   "nombre_universidad": "Universidad Peruana de Ciencias Aplicadas (UPC)",
+   "c_id_podio": 9,
+   "c_id_expa": 1432
+ },
+ {
+   "id_ciudad": 11,
+   "id_universidad": 72,
+   "nombre_universidad": "ADEX",
+   "c_id_podio": 17,
+   "c_id_expa": 269
+ },
+ {
+   "id_ciudad": 11,
+   "id_universidad": 73,
+   "nombre_universidad": "Instituto Leo Design",
+   "c_id_podio": 17,
+   "c_id_expa": 269
+ },
+ {
+   "id_ciudad": 11,
+   "id_universidad": 74,
+   "nombre_universidad": "Universidad del Callao",
+   "c_id_podio": 17,
+   "c_id_expa": 269
+ },
+ {
+   "id_ciudad": 11,
+   "id_universidad": 75,
+   "nombre_universidad": "Universidad Nacional de Ingenieria",
+   "c_id_podio": 17,
+   "c_id_expa": 269
+ },
+ {
+   "id_ciudad": 11,
+   "id_universidad": 76,
+   "nombre_universidad": "Universidad Nacional Federico Villarreal (UNFV)",
+   "c_id_podio": 17,
+   "c_id_expa": 269
+ },
+ {
+   "id_ciudad": 11,
+   "id_universidad": 77,
+   "nombre_universidad": "Universidad Nacional Mayor de San Marcos",
+   "c_id_podio": 17,
+   "c_id_expa": 269
+ },
+ {
+   "id_ciudad": 11,
+   "id_universidad": 78,
+   "nombre_universidad": "Universidad Tecnologica del Perú (UTP)",
+   "c_id_podio": 17,
+   "c_id_expa": 269
+ },
+ {
+   "id_ciudad": 11,
+   "id_universidad": 79,
+   "nombre_universidad": "Universidad  San Martín de Porres",
+   "c_id_podio": 18,
+   "c_id_expa": 1732
+ },
+ {
+   "id_ciudad": 11,
+   "id_universidad": 80,
+   "nombre_universidad": "Escuela de Empresarios (IPAE)",
+   "c_id_podio": 19,
+   "c_id_expa": 116
+ },
+ {
+   "id_ciudad": 11,
+   "id_universidad": 81,
+   "nombre_universidad": "Instituto IDAT",
+   "c_id_podio": 19,
+   "c_id_expa": 116
+ },
+ {
+   "id_ciudad": 11,
+   "id_universidad": 82,
+   "nombre_universidad": "UCAL",
+   "c_id_podio": 19,
+   "c_id_expa": 116
+ },
+ {
+   "id_ciudad": 11,
+   "id_universidad": 83,
+   "nombre_universidad": "Universidad Ricardo Palma",
+   "c_id_podio": 19,
+   "c_id_expa": 116
+ },
+ {
+   "id_ciudad": 11,
+   "id_universidad": 84,
+   "nombre_universidad": "Universidad de Piura (Sede Lima)",
+   "c_id_podio": 19,
+   "c_id_expa": 116
+ },
+ {
+   "id_ciudad": 11,
+   "id_universidad": 85,
+   "nombre_universidad": "Universidad Nacional Tecnológica de Lima Sur (UNTELS)",
+   "c_id_podio": 19,
+   "c_id_expa": 116
+ },
+ {
+   "id_ciudad": 12,
+   "id_universidad": 86,
+   "nombre_universidad": "Universidad de Piura - UDEP - Sede Piura",
+   "c_id_podio": 11,
+   "c_id_expa": 160
+ },
+ {
+   "id_ciudad": 12,
+   "id_universidad": 87,
+   "nombre_universidad": "Universidad Nacional de Piura - UNP - Sede Piura",
+   "c_id_podio": 11,
+   "c_id_expa": 160
+ },
+ {
+   "id_ciudad": 12,
+   "id_universidad": 88,
+   "nombre_universidad": "Universidad Cesar Vallejo - UCV - Sede Piura",
+   "c_id_podio": 11,
+   "c_id_expa": 160
+ },
+ {
+   "id_ciudad": 12,
+   "id_universidad": 89,
+   "nombre_universidad": "Universidad Antenor Orrego - UPAO - Sede Piura",
+   "c_id_podio": 11,
+   "c_id_expa": 160
+ },
+ {
+   "id_ciudad": 12,
+   "id_universidad": 90,
+   "nombre_universidad": "Universidad Alas Peruanas - UAP - Sede Piura",
+   "c_id_podio": 11,
+   "c_id_expa": 160
+ },
+ {
+   "id_ciudad": 12,
+   "id_universidad": 91,
+   "nombre_universidad": "Universidad San Pedro - Sede Piura",
+   "c_id_podio": 11,
+   "c_id_expa": 160
+ },
+ {
+   "id_ciudad": 12,
+   "id_universidad": 92,
+   "nombre_universidad": "Universidad Privada del Norte - UPN - Sede Piura",
+   "c_id_podio": 11,
+   "c_id_expa": 160
+ },
+ {
+   "id_ciudad": 12,
+   "id_universidad": 93,
+   "nombre_universidad": "Otras Universidades e institutos de Piura",
+   "c_id_podio": 11,
+   "c_id_expa": 160
+ },
+ {
+   "id_ciudad": 13,
+   "id_universidad": 94,
+   "nombre_universidad": "Universidad Nacional Del Altiplano",
+   "c_id_podio": 12,
+   "c_id_expa": 2364
+ },
+ {
+   "id_ciudad": 13,
+   "id_universidad": 95,
+   "nombre_universidad": "Universidad Andina Nestor Caceres Velazques",
+   "c_id_podio": 12,
+   "c_id_expa": 2364
+ },
+ {
+   "id_ciudad": 13,
+   "id_universidad": 96,
+   "nombre_universidad": "Otras Universidades e Institutos de Puno",
+   "c_id_podio": 12,
+   "c_id_expa": 2364
+ },
+ {
+   "id_ciudad": 14,
+   "id_universidad": 97,
+   "nombre_universidad": "Universidad Privada de Tacna",
+   "c_id_podio": 13,
+   "c_id_expa": 1717
+ },
+ {
+   "id_ciudad": 14,
+   "id_universidad": 98,
+   "nombre_universidad": "Universidad Alas Peruanas - UAP - Sede Tacna",
+   "c_id_podio": 13,
+   "c_id_expa": 1717
+ },
+ {
+   "id_ciudad": 14,
+   "id_universidad": 99,
+   "nombre_universidad": "Universidad Nacional Jorge Basadre Grohmann - Sede Tacna",
+   "c_id_podio": 13,
+   "c_id_expa": 1717
+ },
+ {
+   "id_ciudad": 14,
+   "id_universidad": 100,
+   "nombre_universidad": "Uladech Catolica - Sede Tacna",
+   "c_id_podio": 13,
+   "c_id_expa": 1717
+ },
+ {
+   "id_ciudad": 14,
+   "id_universidad": 101,
+   "nombre_universidad": "Instituto Neumann - Sede Tacna",
+   "c_id_podio": 13,
+   "c_id_expa": 1717
+ },
+ {
+   "id_ciudad": 14,
+   "id_universidad": 102,
+   "nombre_universidad": "Instituto Unitek Grupo Idat - Sede Tacna",
+   "c_id_podio": 13,
+   "c_id_expa": 1717
+ },
+ {
+   "id_ciudad": 14,
+   "id_universidad": 103,
+   "nombre_universidad": "Otras Universidades e Institutos de Tacna",
+   "c_id_podio": 13,
+   "c_id_expa": 1717
+ },
+ {
+   "id_ciudad": 15,
+   "id_universidad": 104,
+   "nombre_universidad": "Universidad Nacional de San Martín - Sede Tarapoto",
+   "c_id_podio": 14,
+   "c_id_expa": 2365
+ },
+ {
+   "id_ciudad": 15,
+   "id_universidad": 105,
+   "nombre_universidad": "Universidad Privada Alas Peruanas - Sede Tarapoto",
+   "c_id_podio": 14,
+   "c_id_expa": 2365
+ },
+ {
+   "id_ciudad": 15,
+   "id_universidad": 106,
+   "nombre_universidad": "Uníversidad Privada Peruana Unión - Sede Tarapoto",
+   "c_id_podio": 14,
+   "c_id_expa": 2365
+ },
+ {
+   "id_ciudad": 15,
+   "id_universidad": 107,
+   "nombre_universidad": "Universidad Privada César Vallejo - Sede Tarapoto",
+   "c_id_podio": 14,
+   "c_id_expa": 2365
+ },
+ {
+   "id_ciudad": 15,
+   "id_universidad": 108,
+   "nombre_universidad": "Universidad Privada Científica - Sede Tarapoto",
+   "c_id_podio": 14,
+   "c_id_expa": 2365
+ },
+ {
+   "id_ciudad": 15,
+   "id_universidad": 109,
+   "nombre_universidad": "Otras Universidades e Institutos de Tarapoto",
+   "c_id_podio": 14,
+   "c_id_expa": 2365
+ },
+ {
+   "id_ciudad": 16,
+   "id_universidad": 110,
+   "nombre_universidad": "Universidad Antenor Orrego - UPAO - Sede Trujillo",
+   "c_id_podio": 15,
+   "c_id_expa": 1716
+ },
+ {
+   "id_ciudad": 16,
+   "id_universidad": 111,
+   "nombre_universidad": "Universidad Privada del Norte - UPN - Sede Trujillo",
+   "c_id_podio": 15,
+   "c_id_expa": 1716
+ },
+ {
+   "id_ciudad": 16,
+   "id_universidad": 112,
+   "nombre_universidad": "Universidad Alas Peruanas - UAP  - Sede Trujillo",
+   "c_id_podio": 15,
+   "c_id_expa": 1716
+ },
+ {
+   "id_ciudad": 16,
+   "id_universidad": 113,
+   "nombre_universidad": "Universidad Da Vinci - Sede Trujillo",
+   "c_id_podio": 15,
+   "c_id_expa": 1716
+ },
+ {
+   "id_ciudad": 16,
+   "id_universidad": 114,
+   "nombre_universidad": "Universidad Católica - Sede Trujillo",
+   "c_id_podio": 15,
+   "c_id_expa": 1716
+ },
+ {
+   "id_ciudad": 16,
+   "id_universidad": 115,
+   "nombre_universidad": "Universidad Nacional de Trujillo - Sede Trujillo",
+   "c_id_podio": 15,
+   "c_id_expa": 1716
+ },
+ {
+   "id_ciudad": 16,
+   "id_universidad": 116,
+   "nombre_universidad": "Otras Universidades e Institutos de Trujillo",
+   "c_id_podio": 15,
+   "c_id_expa": 1716
+ },
+ {
+   "id_ciudad": 17,
+   "id_universidad": 117,
+   "nombre_universidad": "Universidades e institutos en otras ciudades",
+   "c_id_podio": 9,
+   "c_id_expa": 1432
+ }
+]

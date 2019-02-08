@@ -1,0 +1,186 @@
+[
+  {
+    "id_carrera": 7,
+    "id_carrera_expa": 233
+    "carrera": "Administración"
+  },
+ {
+   "id_carrera": 1,
+   "id_carrera_expa": 1275
+   "carrera": "Antropología"
+ },
+ {
+   "id_carrera": 2,
+   "id_carrera_expa": 227
+   "carrera": "Arqueología"
+ },
+ {
+   "id_carrera": 3,
+   "id_carrera_expa": 228
+   "carrera": "Arquitectura y Urbanismo"
+ },
+ {
+  "id_carrera": 4,
+  "id_carrera_expa": 229
+  "carrera": "Arte y Diseño"
+},
+{
+  "id_carrera": 6,
+  "id_carrera_expa": 1299
+  "carrera": "Artes Escénicas"
+},
+{
+  "id_carrera": 37,
+  "id_carrera_expa": 232
+  "carrera": "Biología"
+},
+{
+  "id_carrera": 21,
+  "id_carrera_expa": 237
+  "carrera": "Ciencias de la Comunicación"
+},
+{
+  "id_carrera": 14,
+  "id_carrera_expa": 267
+  "carrera": "Ciencias Sociales"
+},
+{
+  "id_carrera": 8,
+  "id_carrera_expa": 224
+  "carrera": "Contabilidad"
+},
+{
+  "id_carrera": 22,
+  "id_carrera_expa": 250
+  "carrera": "Derecho"
+},
+{
+  "id_carrera": 5,
+  "id_carrera_expa": 247
+  "carrera": "Diseño gráfico"
+},
+{
+  "id_carrera": 9,
+  "id_carrera_expa": 240
+  "carrera": "Economía"
+},
+{
+  "id_carrera": 23,
+  "id_carrera_expa": 241
+  "carrera": "Educación"
+},
+{
+  "id_carrera": 38,
+  "id_carrera_expa": 1293
+  "carrera": "Enfermería"
+},
+{
+  "id_carrera": 39,
+  "id_carrera_expa": 245
+  "carrera": "Finanzas"
+},
+{
+  "id_carrera": 16,
+  "id_carrera_expa": 270
+  "carrera": "Hotelería y turismo"
+},
+{
+  "id_carrera": 20,
+  "id_carrera_expa": 1289
+  "carrera": "Idiomas"
+},
+{
+  "id_carrera": 31,
+  "id_carrera_expa": 244
+  "carrera": "Ingeniería Ambiental"
+},
+{
+  "id_carrera": 17,
+  "id_carrera_expa": 236
+  "carrera": "Ingeniería Civil"
+},
+{
+  "id_carrera": 32,
+  "id_carrera_expa": 238
+  "carrera": "Ingeniería de Computación"
+},
+{
+  "id_carrera": 19,
+  "id_carrera_expa": 1298
+  "carrera": "Ingeniería de Sistemas"
+},
+{
+  "id_carrera": 18,
+  "id_carrera_expa": 248
+  "carrera": "Ingeniería Industrial"
+},
+{
+  "id_carrera": 27,
+  "id_carrera_expa": 268
+  "carrera": "Ingenieria Informatica"
+},
+{
+  "id_carrera": 33,
+  "id_carrera_expa": 256
+  "carrera": "Ingeniería Mecanica"
+},
+{
+  "id_carrera": 34,
+  "id_carrera_expa": 234
+  "carrera": "Ingeniería Quimica"
+},
+{
+  "id_carrera": 40,
+  "id_carrera_expa": 252
+  "carrera": "Literatura"
+},
+{
+  "id_carrera": 10,
+  "id_carrera_expa": 253
+  "carrera": "Marketing"
+},
+{
+  "id_carrera": 41,
+  "id_carrera_expa": 257
+  "carrera": "Medicina Humana"
+},
+{
+  "id_carrera": 13,
+  "id_carrera_expa": 271
+  "carrera": "Medicina Veterinaria"
+},
+{
+  "id_carrera": 42,
+  "id_carrera_expa": 1292
+  "carrera": "Musica"
+},
+{
+  "id_carrera": 11,
+  "id_carrera_expa": 1288
+  "carrera": "Negocios Internacionales"
+},
+{
+  "id_carrera": 35,
+  "id_carrera_expa": 263
+  "carrera": "Psicología"
+},
+{
+  "id_carrera": 26,
+  "id_carrera_expa": 253
+  "carrera": "Publicidad y afines"
+},
+{
+  "id_carrera": 36,
+  "id_carrera_expa": 266
+  "carrera": "Religión"
+},
+{
+  "id_carrera": 43,
+  "id_carrera_expa": 1295
+  "carrera": "Trabajo Social"
+},
+{
+  "id_carrera": 28,
+  "id_carrera_expa": 271
+  "carrera": "Otros"
+},
