@@ -140,7 +140,13 @@ $fields = array(
     'user[lc]' => $user_lc,
     'user[alignment_id]' => htmlspecialchars($_POST['universidad_expa']), //universidad
     'user[referral_type]' => htmlspecialchars($_POST['interested_when']), //medio de interes
-    'user[selected_programmes][]' => '1', //Voluntario Global ID=1
+		'user[selected_programmes][]' => '1', //Voluntario Global ID=1
+		'user[backgrounds][]' => htmlspecialchars($_POST['id_carrera_expa']), //Backgrounds, de la lista de carreras
+		'user[nationalities][]' => '511', //Peru
+		'user[organisation_name]' => htmlspecialchars($_POST['nombre_universidad']),
+		'user[experience_level][]' => '785', //Bachelor ID 785
+		'user[end_date][]' => '2020-12-30T00:00:00Z',
+		'user[start_date][]' => '2018-12-30T00:00:00Z',
     'commit' => 'REGISTER'
     );
 
